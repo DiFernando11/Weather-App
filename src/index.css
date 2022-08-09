@@ -1,0 +1,17 @@
+html {
+  background-color: rgba(0, 0, 0, 0.813);
+  min-height: 100%;
+  position: relative;
+}
+body{
+  margin-bottom: 60px;
+}
+h1,
+h2,
+h3,
+p,
+span,
+li,
+h4 {
+  color: white;
+}
